@@ -42,4 +42,5 @@ We declare a variable name paragraphs and then find all the p tags using find al
 I print the title attribute of the soup object and then loop through each item in the paragraphs variable and print, this gives the entire content of the article. I discovered that the hyperlinked titles of related articles where included and I removed them by excluding all p tags that contained a tags.
 
 
-Below is the output, giving the complete text of the article:[ Output](https://github.com/Mudacrixxz/Scraping-a-website-with-Python-using-BeautifulSoup-and-Requests-libraries./blob/main/Output.json)
+Below is the output, giving the complete text of the article:
+[Output](https://github.com/Mudacrixxz/Scraping-a-website-with-Python-using-BeautifulSoup-and-Requests-libraries./blob/main/Output.json)
